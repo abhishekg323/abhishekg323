@@ -112,8 +112,7 @@
   </div>
 
   <div align="center">
-    <h3>Cloud & Hosting</h3>
-    
+    <h3>Cloud & Hosting</h3>    
     <a href="https://firebase.google.com/" target="_blank">
       <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
     </a>
