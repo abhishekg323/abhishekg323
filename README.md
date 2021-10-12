@@ -93,8 +93,6 @@
     <a href="https://graphql.org" target="_blank">
       <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
     </a>
-    
-   
   </div>
 
   <div align="center">
@@ -103,7 +101,6 @@
       <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
         alt="postgresql"/> 
     </a>
-   
     <a href="https://www.sqlite.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
         alt="sqlite"/> 
