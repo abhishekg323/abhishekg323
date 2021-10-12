@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200rem"; height="auto" src="./resources/img/agProfile.png"/>
+  <img width="200rem" height="auto" src="./resources/img/agProfile.png"/>
   <h1>Hi<img width="30rem" src="./resources/img/waving.gif">, I'm Abhishek Gupta</h1>
   <h3>A passionate backend developer and a student from New Delhi, India.</h3>
 </div>
