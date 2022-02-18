@@ -71,12 +71,12 @@
       <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
         alt="react"/> 
     </a>
-    <a href="https://redux.js.org" target="_blank"> 
+    <!-- <a href="https://redux.js.org" target="_blank"> 
       <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-    </a> 
+    </a> z
     <a href="https://jquery.com/" target="_blank">
       <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-    </a>
+    </a> -->
   </div>
 
   <div align="center">
