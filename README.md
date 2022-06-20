@@ -1,12 +1,12 @@
 <div align="center">
   <img width="200rem" height="auto" src="./resources/img/agProfile.png"/>
-  <h1>Hi<img width="30rem" src="./resources/img/waving.gif">, I'm Abhishek Gupta</h1>
+  <h1>Hi<img width="50px" src="./resources/img/waving.gif">, I'm Abhishek Gupta</h1>
   <h3>A passionate backend developer and a student from New Delhi, India.</h3>
 </div>
 
 <div>
   <samp>
-  <img align="right" width="270rem" height="auto" src="./resources/img/geek.gif"/>
+  <img align="right" width="40%" height="auto" src="./resources/img/geek.gif"/>
 
 - 🌱 I’m currently learning and working on **NodeJS, ExpressJS & GraphQL**
 
